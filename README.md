@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Where Do Transformers Go Wrong?
 
 **Causal Localization and Correction of Arithmetic Errors in MathGPT-2 (81.9M)**
@@ -66,3 +67,7 @@ text
 3. **Minimal setup**: Removes the virtual environment deep-dive and lengthy folder tree, keeping only the essential `git clone` and `pip install`.
 4. **One-line commands**: Gives exactly 3 terminal commands to run the core experiments, showing the user what to execute without over-explaining each flag.
 5. **Retains LaTeX math**: Uses `$...$` for all statistical values so they render cleanly on GitHub
+=======
+# arithmetic_error_localization
+Where Do Transformers Go Wrong? Causal Localization and Correction of Arithmetic Errors in Small Language Models
+>>>>>>> 02623c84fc925b2979120e4de2e85fc2972bbad2
